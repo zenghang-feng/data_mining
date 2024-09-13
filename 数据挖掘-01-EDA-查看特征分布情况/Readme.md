@@ -1,4 +1,6 @@
-﻿# 0、环境介绍
+（文章来自2021.03.09的博客）  
+
+# 0、环境介绍
 本文用到的Python库函数为 **pandas** 、 **seaborn** 和 **scipy**，pandas用于读取和处理数据，seaborn用于绘图，scipy用于检验数据是否服从正态分布。
 # 1、数据准备
 首先使用pandas读取 train.csv，得到名为 df_train 的 Dataframe，代码如下：
